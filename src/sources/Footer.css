@@ -1,0 +1,7 @@
+footer{
+    display: flex;
+background-color: rgb(250, 6, 6);
+height: 80px;
+justify-content: space-evenly;
+}
+
